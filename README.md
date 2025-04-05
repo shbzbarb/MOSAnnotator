@@ -5,7 +5,7 @@ Assigning Mean Opinion Scores (MOS) manually to large-scale image datasets is a 
 - Leveraging deep learning methodologies for robust feature extraction and automated scoring
 - Streamlining and simplifying the annotation workflow, enabling users to focus predominantly on representative image annotations
 
-<img src="https://github.com/shbzbarb/MOSAnnotator/blob/main/demo.png" alt="Demo" width="300">
+<img src="https://github.com/shbzbarb/MOSAnnotator/blob/main/demo.png" alt="Demo" width="800">
 
 ## Key Features
 
